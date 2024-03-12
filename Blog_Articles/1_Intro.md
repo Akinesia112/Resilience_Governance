@@ -4,6 +4,12 @@
 *This article is written by Shih-Yu, Lai in March 2024.*
 
 ## 1-Introduction 
+Artificial Intelligence (AI) plays a crucial role in urban studies due to its ability to process and analyze vast amounts of data, such as demographic statistics, traffic flows, and real estate prices, uncovering patterns, trends, and correlations. 
+It enables the development of predictive models for various urban development aspects, like traffic congestion and real estate market trends, assisting city planners and policymakers in making informed decisions. 
+AI also solves optimization problems in urban planning, enhances smart city applications by managing and optimizing city infrastructure through IoT data, improves public engagement through social media analysis 
+and customer service with natural language processing, and aids in creating realistic urban simulations and visualizations. Overall, AI's application in urban studies enhances data processing efficiency and accuracy, 
+provides deep insights and forecasts, and optimizes decision-making processes, contributing to the development of smarter and more sustainable cities.
+
 In recent years, the integration of Artificial Intelligence (AI) into urban computing has emerged as a pivotal force in driving equitable urban transformation and enhancing climate resilience governance. 
 AI technologies, such as Spatiotemporal Graph Neural Networks (GNN), Convolutional Neural Networks (CNN), and Long Short-Term Memory (LSTM) networks, have revolutionized the way cities are planned, managed, and governed. 
 These advancements offer promising pathways to address some of the most pressing challenges of urban areas, including climate change, social inequalities, and sustainable development.
@@ -47,6 +53,10 @@ Through inclusive, transparent, and responsible approaches, AI can indeed be a f
 *本文由賴溡雨在2024年3月撰寫。*
 
 ### 1-導言篇
+人工智慧（AI）在都市研究中的應用因其強大的數據分析和處理能力、預測模型建立、問題解決優化、以及智慧城市應用等方面，
+成為了推動城市發展和規劃的關鍵技術。AI能夠處理大量的城市數據，從中發現模式和趨勢，建立預測模型來指導城市規劃和政策制定，
+並優化城市基礎設施和服務。此外，AI還能改善政府與公眾的互動，並通過高度逼真的模擬和可視化技術，幫助規劃者和公眾更好地理解都市規劃的影響。
+這些應用不僅提高了決策的效率和準確性，也為建設更加智慧和可持續的城市奠定了基礎。
 近年來，將人工智慧（AI）整合進城市計算已成為推動城市公正轉型和加強氣候韌性治理的關鍵力量。
 AI模型如時空圖神經網絡（GNN）、卷積神經網絡（CNN）和長短期記憶（LSTM）網絡，已經帶動了城市的規劃、管理和治理方式的革新。
 這些進步為解決城市領域中一些最迫切的挑戰提供了有希望的途徑，包括氣候變化、社會不平等和永續發展。
